@@ -1,0 +1,75 @@
+/* Indulge in an Explosion of Styles! */
+form {
+    margin-bottom: 20px;
+    background: linear-gradient(to right, #33aaff, #f59b00);
+    border: 2px dashed #FFC300;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    font-weight: bold;
+    color: #B10DC9;
+    text-shadow: 2px 2px 4px #FF1493;
+}
+
+.mainDiv {
+    text-align: center;
+    background: radial-gradient(ellipse at center, #00FFFF, #9400D3);
+    padding: 30px;
+    border-radius: 25px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 50%;
+    padding: 10px;
+    margin: 15px;
+    margin-bottom: 20px;
+    border: 3px solid #FF1493;
+    border-radius: 15px;
+    background-color: #FFC0CB;
+    font-size: 16px;
+    color: #800080;
+    text-align: center;
+    transform: rotate(5deg);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+button[type="submit"] {
+    width: 30%;
+    height: 50px;
+    font-size: xx-large;
+    background: conic-gradient(from 0deg at center,#33aaff, #f59b00);
+    color: #FF1493;
+    border: 3px solid #FF1493;
+    border-radius: 25px;
+    cursor: pointer;
+    text-shadow: 2px 2px 4px #FF1493;
+}
+
+/* Enter the Matrix of Lists */
+ul {
+    list-style: none;
+    padding-left: 0;
+    background-color: #5F9EA0;
+    border: 3px dashed #FF5733;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+li {
+    padding: 15px;
+    margin-bottom: 10px;
+    background: linear-gradient(to right, #FF1493, #9400D3);
+    border: 3px dashed #FFC300;
+    border-radius: 15px;
+    font-size: 18px;
+    color: #FFFF00;
+    text-shadow: 2px 2px 4px #FF4500;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
